@@ -1,0 +1,57 @@
+body{
+		background-color: green;
+}
+
+.h11{
+		font-family: sans-serif, helvetica, comic sans, arial;
+		color: white;
+}
+
+body{
+		background-image: url(imgs/tenis.png);
+}
+
+.li1{
+		color: #F4D03F;
+		font-size: 20px;
+		font-family: Vegur, 'PT Sans', Verdana, sans-serif, bold;
+		background-color: : #EC7063;
+		text-decoration: none;
+}
+
+
+a{
+	color: white;
+	text-decoration: none;
+}
+
+div #menubar{
+			background-color: : #EC7063;
+			width: 300px;
+			margin: 0px;
+			padding: 0;
+			border-top: 3px solid;
+			border-bottom: 3px solid;
+			margin-left: 1px;
+			margin-top: 200px;
+			height: 180px; /*45*/
+
+			
+}
+
+div #menubar{
+			background-color: #F4D03F ;
+}
+div #menubar{
+			color: white;
+}
+div #menubar li ol li {
+				background-color: #blue;
+				border border-radius: 0px 20px 20px 0px;
+}
+div #menubar li {
+			list-style: none;
+}
+div #menubar{
+	font-size: 30px;
+}
